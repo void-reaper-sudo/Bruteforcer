@@ -1,6 +1,6 @@
-CD to the Bruteforcer file
-Run bruteforcer: python bruteforcer.py
-Enter the target IP
-enter the target Username
-enter the wordlist file
-enter the protocol (SSH, FTP, or HTTP)
+step 1: CD to the Bruteforcer file
+step 2: Run bruteforcer: python bruteforcer.py
+step 3: Enter the target IP
+step 4: enter the target Username
+step 5: enter the wordlist file
+step 6: enter the protocol (SSH, FTP, or HTTP)
