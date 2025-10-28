@@ -130,10 +130,10 @@ class PasswordCracker:
 
 def main():
     # Configuration
-    target = input("Enter target")
-    username = input("Enter username")
-    wordlist = input("Enter wordlist")  # Make sure this file exists
-    protocol = input("Enter protocol (HTTP, SSH or FTP)")
+    target = input("Enter target\n")
+    username = input("Enter username\n")
+    wordlist = input("Enter wordlist\n")  # Make sure this file exists
+    protocol = input("Enter protocol (HTTP, SSH or FTP)\n")
     
     # Verify wordlist exists
     if not os.path.exists(wordlist):
