@@ -17,7 +17,7 @@ To install the Bruteforce CLI, clone the repository and install the required dep
 
 ```bash
 git clone <repository-url>
-cd bruteforce-cli
+cd bruteforcer
 pip install -r requirements.txt
 ```
 
